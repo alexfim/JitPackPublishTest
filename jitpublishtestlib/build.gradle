@@ -1,6 +1,6 @@
 apply plugin: 'com.android.library'
 apply plugin: 'com.github.dcendents.android-maven' // ADD THIS
-group='ly.warp.git.alexander.efimov'
+group='com.gitlab.alexfim'
 
 android {
     compileSdkVersion 25
